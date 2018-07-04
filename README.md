@@ -1,7 +1,6 @@
 # um-jogo-simples
-meu primeiro jogo
 
-
+Feito na Unity. É um pequeno projeto de 2 meses solo que fiz enquanto trabalhava.
 
 Link para o jogo na PlayStore.
 
